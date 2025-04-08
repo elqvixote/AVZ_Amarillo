@@ -1,4 +1,6 @@
 voila
+jupyter
+ipykernel
 pandas
 matplotlib
 scikit-learn
